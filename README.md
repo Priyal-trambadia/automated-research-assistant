@@ -7,7 +7,7 @@ Built as my **first AI Agent project** to learn agentic AI, LLM integration, web
 ## 🚀 Live Demo
 
 **Try ResearchAI:**
-https://researchai-by-priyal.streamlit.app/
+https://priyals-research-agent.streamlit.app/
 
 ## ✨ Features
 
